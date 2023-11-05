@@ -1,7 +1,7 @@
 # Happy Birthday
 From the past few OSINT challenges we found Mirveal's mastodon account.
 
-![HB1](https://github.com/WatTheWat/ctf-writeups/assets/114541395/42db5c71-e701-46b6-96ac-96534beac541)
+![HB1](https://github.com/WatTheWat/ctf-writeups/assets/114541395/7c6e4ab8-5ea0-411c-ac8e-79c267ae41ae)
 
 Now, however, we have to find his birth year and city.
 
@@ -13,8 +13,8 @@ After a bit of digging I saw:
 
  https://www.familytreenow.com/ under -> People Search Engines -> General People Search.
  
-![HB2](https://github.com/WatTheWat/ctf-writeups/assets/114541395/5ef43d8f-f635-41e6-870e-b5ce69e65bf3)
- 
+![HB2](https://github.com/WatTheWat/ctf-writeups/assets/114541395/c203e157-f4f5-4eff-b60c-6b33c69e8089)
+
 Looks like this was the intended solution!
  
 The flag is:
