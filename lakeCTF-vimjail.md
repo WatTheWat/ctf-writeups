@@ -1,6 +1,6 @@
 # Task
 
-Vimjail: People always koke about how to exit vim. Well, time to show them!
+Vimjail: People always joke about how to exit vim. Well, time to show them!
 
 ssh user@chall.polygl0ts.ch -p 9018 (password:lakectf)
 
