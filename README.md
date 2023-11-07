@@ -2,7 +2,7 @@
 
 
 ### OSINT
-[Happy Birthday](deadface-HappyBirthday.md) \ 
+[Happy Birthday](deadface-HappyBirthday.md) \
 [Mama y Papa](deadface-Mama_Y_Papa.md)
 
 ### MISC
