@@ -8,3 +8,6 @@
 ### MISC
 [vimjail](lakeCTF-vimjail.md) \
 [vimjail2](lakeCTF-vimjail2.md) 
+
+### CRYPTO
+[Color Me Impressed](deadface-color_me_impressed.md)
